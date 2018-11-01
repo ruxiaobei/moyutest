@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<excelTitle>
+	
+	<moduleName text="测试结果" rowNum="1" colNum="7">
+		<row index = "0">
+			<col rowspan="1">接口名称</col>
+			<col rowspan="1">前置条件</col>
+			<col rowspan="1">操作步骤</col>
+			<col rowspan="1">执行结果</col>
+			<col rowspan="1">errorCode</col>
+			<col rowspan="1">errorMessage</col>
+			<col colspan="1">响应报文</col>
+		</row>
+	</moduleName>
+	
+	<moduleName text="登录测试报告" rowNum="1" colNum="5">
+		<row index = "0">
+			<col rowspan="1">手机号码</col>
+			<col rowspan="1">接口名称</col>
+			<col rowspan="1">请求类型</col>
+			<col rowspan="1">执行结果</col>
+			<col rowspan="1">errorCode</col>
+		</row>
+	</moduleName>
+
+</excelTitle>
